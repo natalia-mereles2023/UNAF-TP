@@ -1,0 +1,21 @@
+COMESTIBLES
+arroz
+fideo
+aceite
+arvejas
+harina
+choclo
+lechuga
+naranja
+pan
+galletitas
+
+LIMPIEZA
+jabon
+detergente
+lavandina
+quitamanchas
+shampoo
+acondicionador
+trapo de piso
+desodorante
